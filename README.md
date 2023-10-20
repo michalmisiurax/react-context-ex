@@ -1,3 +1,11 @@
+# Zadanie 1
+
+Stwórz aplikację, która umożliwia użytkownikom wybór między trybem ciemnym a trybem jasnym. Utwórz kontekst, który przechowuje informacje o aktualnie wybranym motywie (np. jasny lub ciemny) i dostarcza funkcje do zmiany motywu. Następnie zaimplementuj przełącznik motywów w swojej aplikacji, który wykorzystuje ten kontekst do zmiany wyglądu interfejsu.
+
+# Zadanie 2
+
+Stwórz aplikację zawierającą listę elementów (np. listę produktów lub postów na blogu). Następnie stwórz kontekst, który przechowuje stan wyszukiwania i filtry. Umożliw użytkownikowi wprowadzanie kryteriów wyszukiwania i filtrowania listy elementów. Komponenty w aplikacji powinny korzystać z tego kontekstu do dynamicznego aktualizowania wyświetlanych wyników na podstawie wprowadzonych kryteriów.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

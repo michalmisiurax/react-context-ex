@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
-import { ChangeTryb } from "./components/ChangeTryb";
+import { ChangeMode } from "./components/ChangeMode";
 import { Body } from "./components/Body";
 import { AppContextProvider } from "./context/AppContext";
 import Home from "./components/Home";
@@ -16,7 +16,7 @@ function App() {
     <AppContextProvider>
       <div className="App">
         <Body>
-          <ChangeTryb />
+          <ChangeMode />
           <Navigation />
           <Routes>
             <Route path="/" element={<Home />} />
