@@ -4,6 +4,16 @@ Stwórz aplikację, która umożliwia użytkownikom wybór między trybem ciemny
 
 # Zadanie 2
 
+Utwórz routing:
+homepage
+lista postów
+pojedynczy post (w url dynamiczne :id)
+nowy post
+404
+jezeli chodzi o zlaczenie routingu z contextem to w pliku index.tsx gdzie mamy createRoot dorzucamy tylko routing,
+
+# Zadanie 3
+
 Stwórz aplikację zawierającą listę elementów (np. listę produktów lub postów na blogu). Następnie stwórz kontekst, który przechowuje stan wyszukiwania i filtry. Umożliw użytkownikowi wprowadzanie kryteriów wyszukiwania i filtrowania listy elementów. Komponenty w aplikacji powinny korzystać z tego kontekstu do dynamicznego aktualizowania wyświetlanych wyników na podstawie wprowadzonych kryteriów.
 
 # Getting Started with Create React App
